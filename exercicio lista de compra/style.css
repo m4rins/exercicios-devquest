@@ -1,0 +1,12 @@
+.compra{
+   
+    background-color: rgb(192, 90, 213);
+    box-sizing: border-box;
+    width: 200px;
+    padding: 20px;
+    border: 10px solid blue;
+    
+}
+.total{
+    font-size: 25px;
+}
